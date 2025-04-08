@@ -5,7 +5,8 @@ public class Fornecedor {
 
 
     public Fornecedor(String nome, int cnpj) {
-
+    this.nome = nome;
+    this.cnpj = cnpj;
 
     }
 
